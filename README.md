@@ -8,6 +8,8 @@ The project basically uses the Librosa python library for manipulating the audio
 ## The spectrogram of linear power frequency from specshow function:
 <img src="linear_allp.png" alt="sample_output_1" width="700" />
 
+Each block present the sound of the planet. Example strong wind of saturn , high pressure of jupiter and oceans of earth 
+
 ## The spectrogram of linear power frequency of Saturn 
 <img src="saturn_linear.png" alt="sample_output_2" width="700" />
 
