@@ -7,3 +7,12 @@ The project basically uses the Librosa python library for manipulating the audio
 
 ## The spectrogram of linear power frequency from specshow function:
 <img src="linear_allp.png" alt="sample_output_1" width="700" />
+
+## The spectrogram of linear power frequency of Saturn 
+<img src="saturn_linear.png" alt="sample_output_2" width="700" />
+
+## The  spectrogram of log frequency from specshow function 
+<img src="log_all.png" alt="sample_output_3" width="700" />
+
+## The WAVE FORM shows the harmonics and percussive of each planet 
+<img src="waveform_all.png" alt="sample_output_4" width="700" />
