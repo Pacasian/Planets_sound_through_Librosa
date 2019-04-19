@@ -6,4 +6,4 @@ The project basically uses the Librosa python library for manipulating the audio
 <i>visit the sound_editing.ipynb</i>
 
 ## The spectrogram of linear power frequency from specshow function:
-<img src="linear_allp.png" alt="sample_output_1" width="500" />
+<img src="linear_allp.png" alt="sample_output_1" width="700" />
